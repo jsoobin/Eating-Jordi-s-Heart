@@ -18,7 +18,7 @@
 
 <개발멤버이름> 박성미, 정수빈, 조유진
 
-<라이센스> 
+<라이센스> https://assetstore.unity.com/packages/2d/characters/simple-2d-platformer-assets-pack-188518
 
 <게임기능>
 
