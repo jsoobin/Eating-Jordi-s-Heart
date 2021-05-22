@@ -14,7 +14,7 @@
 
 <설치환경> UnityHub, Unity, Visual Studio
 
-<기획자료> file:///C:/Users/user/Desktop/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%BB%A8%ED%85%90%ED%94%84_%EA%B8%B0%EB%A7%90%EB%AF%B8%EC%85%984(%EC%A3%A0%EB%A5%B4%EB%94%94).pdf
+<기획자료> file:///C:/Users/%EC%A0%95%EC%88%98%EB%B9%88/Desktop/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%BD%98%ED%85%90%EC%B8%A0_%EA%B8%B0%EB%A7%90%EB%AF%B8%EC%85%984(%EC%A3%A0%EB%A5%B4%EB%94%94).pdf
 
 <개발멤버이름> 박성미, 정수빈, 조유진
 
